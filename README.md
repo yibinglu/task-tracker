@@ -1,2 +1,2 @@
 ## Task Tracker React App
-# Tutorial by Traversy Media
+Tutorial by Traversy Media
